@@ -7,8 +7,8 @@
     <ProjectGuid>{2D7152C4-C813-45CD-AF5A-26772DEFB082}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SingleResponsibilityPrinciple.Contracts</RootNamespace>
-    <AssemblyName>SingleResponsibilityPrinciple.Contracts</AssemblyName>
+    <RootNamespace>CurrencyTrader.Contracts</RootNamespace>
+    <AssemblyName>CurrencyTrader.Contracts</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

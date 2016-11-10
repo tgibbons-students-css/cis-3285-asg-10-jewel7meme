@@ -7,8 +7,8 @@
     <ProjectGuid>{BA086CB7-306C-4E77-A2C4-5E82B8E71808}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SingleResponsibilityPrinciple.AdoNet</RootNamespace>
-    <AssemblyName>SingleResponsibilityPrinciple.AdoNet</AssemblyName>
+    <RootNamespace>CurrencyTrader.AdoNet</RootNamespace>
+    <AssemblyName>CurrencyTrader.AdoNet</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdoNetTradeStorage.cs" />
+    <Compile Include="AsynchTradeStorage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
